@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChemicalGuessingGame</string>
+
+    <string name="begin_message">Enter a chemical name or guess</string>
+    <string name="guess_box">Type here</string>
+    <string name="guess_button">Guess</string>
+    <string name="add_box">Type a new chemical name to add</string>
+    <string name="add_button">Add Chemical</string>
+
+    <string name="chemical_guess_success">Congratulations! You guessed it right. It was %1$s.</string>
+    <string name="chemical_guess_failed">Sorry wrong guess. The correct answer was %1$s.</string>
+
+    <string name="chemical_already_available">Chemical \"%1$s\" is already available.</string>
+    <string name="chemical_added_successfully">Chemical \"%1$s\" added successfully.</string>
+</resources>
